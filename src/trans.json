@@ -54,6 +54,23 @@
       "attack_speed": "攻击速度",
       "movement_speed": "移动速度",
       "tenacity": "韧性"
+    },
+    {
+      "_locales": [
+        "es-ES"
+      ],
+      "title": "ESTADÍSTICAS DE BALANCE",
+      "no_stats": "Sin mejoras/nerfeos aún.",
+      "dmg_dealt": "Daño infligido",
+      "dmg_taken": "Daño recibido",
+      "healing": "Curación",
+      "shielding": "Escudos",
+      "ability_haste": "Celeridad de habilidades inicial",
+      "mana_regen": "Regeneración de maná",
+      "energy_regen": "Regeneración de energía",
+      "attack_speed": "Velocidad de ataque",
+      "movement_speed": "Velocidad de movimiento",
+      "tenacity": "Tenacidad"
     }
   ]
 }
